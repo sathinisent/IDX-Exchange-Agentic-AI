@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# IDX Exchange project data / local files
+*.sql
+*.csv
+node_modules/
+.DS_Store
