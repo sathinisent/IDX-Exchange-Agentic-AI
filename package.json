@@ -1,0 +1,29 @@
+{
+  "name": "idx-exchange-agentic-ai",
+  "version": "1.0.0",
+  "description": "Agentic AI engineering internship project for IDX Exchange",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sathinisent/IDX-Exchange-Agentic-AI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sathinisent/IDX-Exchange-Agentic-AI/issues"
+  },
+  "homepage": "https://github.com/sathinisent/IDX-Exchange-Agentic-AI#readme",
+  "devDependencies": {
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
